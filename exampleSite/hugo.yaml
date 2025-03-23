@@ -378,12 +378,12 @@ params:
     #   messageRows: 5
 
   footer:
-    recentPosts:
-      path: "blogs"
-      count: 3
-      title: Recent Posts
-      enable: true
-      disableFeaturedImage: false
+    # recentPosts:
+    #   path: "blogs"
+    #   count: 3
+    #   title: Recent Posts
+    #   enable: true
+    #   disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/Lekha03
       linkedin: https://www.linkedin.com/in/lekha-sree-rapeta-a12a18183/
@@ -392,19 +392,19 @@ params:
       # facebook: https://facebook.com
 
   # List pages like blogs and posts
-  listPages:
-    disableFeaturedImage: false
+  # listPages:
+  #   disableFeaturedImage: false
 
-  # Single pages like blog and post
-  singlePages:
-    socialShare: true
-    readTime:
-      enable: true
-      content: "min read"
-    scrollprogress:
-      enable: true
-    tags:
-      openInNewTab: true
+  # # Single pages like blog and post
+  # singlePages:
+  #   socialShare: true
+  #   readTime:
+  #     enable: true
+  #     content: "min read"
+  #   scrollprogress:
+  #     enable: true
+  #   tags:
+  #     openInNewTab: true
 
   # For translations
   terms:
