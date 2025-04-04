@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://lekhasree.netlify.app/"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Lekha sree Portfolio"
 theme: hugo-profile
 
 outputs:
@@ -59,10 +59,10 @@ markup:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "Lekha sree Portfolio
+  description: All About me
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "/NewProject.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -116,7 +116,7 @@ params:
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
     brandName: "Lekha sree" # Brand name for the brand | default is the title variable
-    disableSearch: false
+    disableSearch: true
     # searchPlaceholder: "Search"
     stickyNavBar:
       enable : true
