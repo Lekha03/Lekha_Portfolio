@@ -363,6 +363,21 @@ params:
           - icon: fab fa-github
             url: https://github.com/Lekha03/Automation_Product_Price_Alert_Email
 
+      - title: Bugdet Tracker
+        content: The Dynamic Budget Tracker is an Excel-based tool designed to help users manage their personal finances effectively. It provides a comprehensive dashboard displaying total net worth, available balance, assets, and income versus expenses over time. Key features include tracking income sources (e.g., e-commerce, salary), categorizing spending (housing, personal, transportation), and monitoring progress toward financial goals. The tracker also highlights pending bills to avoid late fees. With an intuitive interface and visual charts, it empowers users to make informed financial decisions, ensuring better budgeting and resource allocation for individuals or small households.
+        image: /images/projects/budget_tracker.png
+        featured:
+          name: Bugdet Tracker
+          #link: https://github.com/Lekha03/Automation_Product_Price_Alert_Email
+        badges:
+          - "Excel"
+          - "Dynamic Reports"
+          - "Data Analysis"
+          - "Data Visualization"
+        # links:
+        #   - icon: fab fa-github
+        #     url: https://github.com/Lekha03/Automation_Product_Price_Alert_Email
+
   #Contact
   contact:
     enable: true
